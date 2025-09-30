@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>🌤️ Weather Dashboard</h1>
+      <div class="search-box">
+        <input type="text" id="cityInput" placeholder="Search city...">
+        <button id="searchBtn">Search</button>
+      </div>
+    </header>
+
+    <main>
+      <div class="weather-card fade-in">
+        <h2 id="cityName">--</h2>
+        <p id="date">--</p>
+        <img id="weatherIcon" src="" alt="Weather Icon">
+        <h3 id="temperature">-- °C</h3>
+        <p id="condition">--</p>
+        <p>Humidity: <span id="humidity">--%</span></p>
+        <p>Wind: <span id="wind">-- km/h</span></p>
+        <div class="details">
+          <p>Feels like: <span id="feelsLike">-- °C</span></p>
+          <p>Visibility: <span id="visibility">-- km</span></p>
+          <p>Pressure: <span id="pressure">-- hPa</span></p>
+          <p>Clouds: <span id="clouds">--%</span></p>
+          <p>Sunrise: <span id="sunrise">--</span></p>
+          <p>Sunset: <span id="sunset">--</span></p>
+        </div>
+        <div id="travelAdvice" class="advice">--</div>
+      </div>
+
+      <div class="forecast">
+        <h2>5-Day Forecast</h2>
+        <div class="forecast-container" id="forecastContainer"></div>
+      </div>
+
+      <p id="errorMsg" class="error"></p>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
