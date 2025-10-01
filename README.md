@@ -29,47 +29,74 @@ Responsive layout (mobile + desktop)
 # 🌍 API Used
 
 Open-Meteo API
+
  – Free, no API key required
+ 
 Geocoding API (for city search)
+
 Weather API (for live weather + forecast)
 
 # 🎨 UI Preview
+
 🌤️ Current Weather Card
+
 City Name & Date
+
 Weather Icon + Condition
+
 Temperature, Humidity, Wind Speed
+
 Feels-like, Visibility, Pressure, Clouds
+
 Sunrise & Sunset
 
 # 📅 5-Day Forecast
 Day of week
+
 Weather icon (emoji-based)
+
 Min/Max Temperature
+
 # 🚦 Travel Advice
+
 Good → Green background
+
 Caution → Yellow background
+
 Bad → Red background
 
 # 💡 Travel Advice Logic
 ❌ Not recommended: Storms, thunderstorms, or very strong winds (>50 km/h)
+
 ⚠️ Caution: Freezing temperatures (≤ 0°C) or extreme heat (≥ 38°C)
+
 ✅ Good to go: Normal & safe weather
 
 # 📱 Responsiveness
+
 Mobile-first design
+
 Auto-adjusts card and forecast grid
+
 Smooth animations with @keyframes fadeIn
 
 # 🔮 Future Improvements
+
 🌎 Multi-language support
+
 📍 Save favorite cities
+
 📊 Add hourly forecast with charts
+
 🎤 Voice search for city names
 
 # 👩‍💻 Technologies Used
 HTML5 – Structure
+
 CSS3 – Styling, Glassmorphism, Animations
+
 JavaScript (ES6) – API fetching, DOM manipulation
+
 Open-Meteo API – Weather & Geocoding
 
 ![image alt](https://github.com/divyanshiupreti11/WeatherDashboard/blob/fed1a37108a0c0bbb4fcf0d62e02a20c5f0729c0/Screenshot%202025-09-30%20220758.png)
