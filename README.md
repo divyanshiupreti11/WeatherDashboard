@@ -72,6 +72,8 @@ CSS3 – Styling, Glassmorphism, Animations
 JavaScript (ES6) – API fetching, DOM manipulation
 Open-Meteo API – Weather & Geocoding
 
+![image alt](https://github.com/divyanshiupreti11/WeatherDashboard/blob/fed1a37108a0c0bbb4fcf0d62e02a20c5f0729c0/Screenshot%202025-09-30%20220758.png)
+
 
 
 
