@@ -72,6 +72,8 @@ Bad → Red background
 
 ✅ Good to go: Normal & safe weather
 
+![image alt](https://github.com/divyanshiupreti11/WeatherDashboard/blob/fed1a37108a0c0bbb4fcf0d62e02a20c5f0729c0/Screenshot%202025-09-30%20220758.png)
+
 # 📱 Responsiveness
 
 Mobile-first design
@@ -99,7 +101,7 @@ JavaScript (ES6) – API fetching, DOM manipulation
 
 Open-Meteo API – Weather & Geocoding
 
-![image alt](https://github.com/divyanshiupreti11/WeatherDashboard/blob/fed1a37108a0c0bbb4fcf0d62e02a20c5f0729c0/Screenshot%202025-09-30%20220758.png)
+![image alt](https://github.com/divyanshiupreti11/WeatherDashboard/blob/ae445738274d7be749de931095043dffd16d8321/Screenshot%202025-10-01%20061929.png)
 
 
 
